@@ -11,6 +11,7 @@ Questa repository offre una guida completa ai tag HTML più famosi e alle funzio
     - [Multimedia](#multimedia)
     - [Tabelle](#tabelle)
     - [Altri Tag Comuni](#altri-tag-comuni)
+      
 2. [Funzioni PHP](#funzioni-php)
     - [Variabili](#variabili)
     - [Iterazioni](#iterazioni)
