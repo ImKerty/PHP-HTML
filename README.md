@@ -1,4 +1,4 @@
-# HTML & PHP Tags and Functions Tutorial
+# PHP & HTML Tags and Functions Tutorial
 
 Questa repository offre una guida completa ai tag HTML più famosi e alle funzioni PHP più comuni, con esempi e spiegazioni.
 
